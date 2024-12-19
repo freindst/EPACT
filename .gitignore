@@ -4,3 +4,5 @@ checkpoints/*
 __pycache__/
 dist/
 *.egg-info/
+source-data/10x/*
+processed-data/10x_negative_all.csv
