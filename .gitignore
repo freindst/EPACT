@@ -6,3 +6,7 @@ dist/
 *.egg-info/
 source-data/10x/*
 processed-data/10x_negative_all.csv
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
